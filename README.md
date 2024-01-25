@@ -10,6 +10,7 @@
 - Neural rhythms and spectral bands of physiological interest: theta, alpha, beta, gamma activity
 - Evoked fields and time-frequency representation of neurophysiological signals
 - Value of spectral analysis in understanding neural signals
+- Source localization methods: beamformer, distributed localization methods – mathematical framework and application
 
 
 
