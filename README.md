@@ -1,5 +1,6 @@
 #Neurotechnology & BCI Theory
 ## Course Structure
+Please find the course structure below
 
 ### Theory Course
 - Origin and biophysics of LFP, ECoG, EEG, and MEG signals
