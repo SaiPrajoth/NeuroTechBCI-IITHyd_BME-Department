@@ -26,5 +26,5 @@ Please find the course structure below
 - **Source Localization Methods:** Delve into advanced techniques like beamformer and distributed localization methods, both in terms of mathematical frameworks and practical applications.
 
 - **Clinical Applications:** Explore applications in clinical settings, including motor evoked potentials, intra-operative neurophysiological monitoring, nerve conduction tests, and the use of ECoG and MEG/EEG in epilepsy diagnosis and surgical planning.
--  UPDATION CONTINOUS
+-  UPDATION CONTINOUS : syllabus addition
 
